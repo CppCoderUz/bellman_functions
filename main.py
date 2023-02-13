@@ -34,8 +34,6 @@ Dastur:
     versiya: 1.0.0
     dasturlash tili: python
     nomi: Bellman funksional tenglamasi
-    sertifikat: Yo'q
-    holati: Aktiv, barcha uchun ochiq 
 
 '''
 
